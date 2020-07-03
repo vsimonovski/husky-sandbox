@@ -8,7 +8,7 @@
     "devDependencies": {
         "@commitlint/cli": "8.3.5",
         "@commitlint/config-conventional": "8.3.4",
-        "eslint": "7.3.1",
+        "eslint": "7.4.0",
         "eslint-plugin-jest": "23.17.1",
         "husky": "4.2.5",
         "jest": "26.1.0",
