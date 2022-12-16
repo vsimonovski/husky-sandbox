@@ -7,12 +7,10 @@
     "license": "MIT",
     "lint-staged": {
         "*.{js,md,css,scss,html}": [
-            "prettier --write",
-            "git add"
+            "prettier --write"
         ],
         "*.js": [
             "eslint --fix",
-            "git add",
             "jest --bail --findRelatedTests"
         ]
     },
